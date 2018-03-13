@@ -1,0 +1,26 @@
+.login-form{
+    width: 20%;
+    height:30%;
+    /* display: flex; */
+    margin-top: 5em;
+    /* height:20em; */
+    align-self: center;
+}
+body{
+    display: flex;
+    
+    /* align-items: center; */
+    /* justify-content: center; */
+    min-height: 100%;
+    flex-flow: column;
+    justify-items: center;
+    
+}
+
+#login-message{
+         /* position:fixed; */
+    margin-top: 5em;
+    /* left:0; */
+    align-self: center;
+    /* justify-items: center; */
+}
